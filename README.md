@@ -1,6 +1,7 @@
 # SNAKE
 
-![Cover](https://raw.githubusercontent.com/ewcgit/snake/main/SNAKE%20Screenshots/snake.png)
+![Cover](https://raw.githubusercontent.com/ewcgitt/snake/main/SNAKE%20Screenshots/snake.png)
+
 
 ## Controls:
 
@@ -12,7 +13,7 @@ Enter to restart the game.
 
 ## How to play:
 
-Download the compiled zip to run the .exe in Windows. Alternatively, it is playable directly in my Itch.io page: https://ecgit.itch.io/snake
+Download the compiled zip to run the .exe in Windows.
 
 ## Credits:
 
@@ -26,5 +27,4 @@ Sound effects produced with: https://www.bfxr.net/
 
 Cover art: https://www.publicdomainpictures.net/en/view-image.php?image=571425&picture=snake-artistic-drawing-art
 
-
-![Gameplay](https://raw.githubusercontent.com/ewcgit/snake/main/SNAKE%20Screenshots/snake%20screenshot.png)
+![Gameplay](https://raw.githubusercontent.com/ecgitt/snake/main/SNAKE%20Screenshots/snake%20screenshot.png)
