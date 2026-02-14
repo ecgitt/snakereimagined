@@ -1,6 +1,6 @@
 # SNAKE
 
-![Cover](https://raw.githubusercontent.com/ewcgitt/snake/main/SNAKE%20Screenshots/snake.png)
+![Cover](https://github.com/ecgitt/snakereimagined/blob/main/SNAKE%20Screenshots/snake.png?raw=true)
 
 
 ## Controls:
@@ -27,4 +27,4 @@ Sound effects produced with: https://www.bfxr.net/
 
 Cover art: https://www.publicdomainpictures.net/en/view-image.php?image=571425&picture=snake-artistic-drawing-art
 
-![Gameplay](https://raw.githubusercontent.com/ecgitt/snake/main/SNAKE%20Screenshots/snake%20screenshot.png)
+![Gameplay](https://github.com/ecgitt/snakereimagined/blob/main/SNAKE%20Screenshots/snake%20screenshot.png?raw=true)
